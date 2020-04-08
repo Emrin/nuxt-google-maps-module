@@ -22,11 +22,10 @@
 
 ## Install
 
-Add this to your package.json dependencies:
 ```
-"nuxt-google-maps-module": "git+https://git@github.com/Emrin/nuxt-google-maps-module.git"
+"npm i Emrin/nuxt-google-maps-module --save"
 ```
-then run ```npm i```
+
 ## Getting Started
 
 Add `nuxt-google-maps-module` to `modules` section of `nuxt.config.js`.
