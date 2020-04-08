@@ -41,7 +41,7 @@ module.exports = function module(moduleOptions) {
    * Import the Google Maps script with initMap callback.
    */
   this.options.head.script.push({
-    src: `//maps.googleapis.com/maps/api/js?key=${options.key}&libraries=${libraries}&callback=initMap`,
+    src: `https://maps.googleapis.com/maps/api/js?key=${options.key}&libraries=${libraries}&callback=initMap`,
     defer: options.defer,
     async: options.async,
   });
