@@ -22,9 +22,9 @@
 
 ## Install
 
-```bash
-$ npm install --save nuxt-google-maps-module
-```
+Add this to your package.json dependencies:
+git+https://git@github.com/Emrin/nuxt-google-maps-module.git
+then run ```npm i```
 
 ## Getting Started
 
