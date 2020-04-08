@@ -1,4 +1,4 @@
-# Nuxt Google Maps Module
+# Nuxt Google Maps Module (now works with Cordova)
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-google-maps-module/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-google-maps-module)
 [![npm](https://img.shields.io/npm/dt/nuxt-google-maps-module.svg?style=flat-square)](https://npmjs.com/package/nuxt-google-maps-module)
